@@ -102,3 +102,10 @@ Wat are listeners?
 
 - If used incorrectly, it will use a lot of the system resources. 
 
+### Anatomy of a Test
+
+1- Create a Test plan 
+
+    inside a test plan, we have everything we need in order to perform a load test
+
+    1-   
